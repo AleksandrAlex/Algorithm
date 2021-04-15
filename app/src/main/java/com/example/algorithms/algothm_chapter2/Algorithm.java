@@ -1,6 +1,4 @@
-package com.example.algorithms;
-
-import java.util.Arrays;
+package com.example.algorithms.algothm_chapter2;
 
 public class Algorithm {
 

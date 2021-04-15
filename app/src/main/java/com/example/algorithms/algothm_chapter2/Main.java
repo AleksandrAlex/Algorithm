@@ -1,4 +1,4 @@
-package com.example.algorithms;
+package com.example.algorithms.algothm_chapter2;
 
 public class Main {
     public static void main(String[] args) {
